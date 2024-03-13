@@ -1,0 +1,7 @@
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\DotNetApp.exe
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\DotNetApp.dll
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\DotNetApp.deps.json
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\DotNetApp.runtimeconfig.json
+C:\Users\msi msi\source\repos\DotNetApp\DotNetApp\obj\Release\net8.0\PubTmp\Out\DotNetApp.pdb
